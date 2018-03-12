@@ -1,2 +1,2 @@
 # RotationHelper
-Vext class to help translating the coords of a reference system to rotation agles and viceversa
+Class for venice unleashed extension system, to help convert Frostbite's coordinate system (left, up, forward) to rotation angles (yaw, pitch, roll) or the other way around.
